@@ -44,11 +44,7 @@ cd Password-Strength-Analyzer
 
 Install any required dependencies:
 
-```bash
-pip install -r requirements.txt
-```
-
-If no requirements file exists, the project runs using Python standard libraries.
+The project runs using Python standard libraries.
 
 ---
 
